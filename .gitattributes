@@ -1,2 +1,2 @@
-*.js linguist-language=JavaScript
-
+*.js linguist-language=text
+*.json linguist-language=text
