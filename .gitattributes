@@ -1,2 +1,2 @@
-*.js linguist-language=text
-*.json linguist-language=text
+public/js/lib/codemirror/* linguist-vendored
+*.jsx linguist-language=JavaScript
