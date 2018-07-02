@@ -42,6 +42,19 @@
   - Add `using Rear.Camera.Characteristics.Display.Metrics.RNRearCameraCharacteristicsDisplayMetrics;` to the usings at the top of the file
   - Add `new RNRearCameraCharacteristicsDisplayMetricsPackage()` to the `List<IReactPackage>` returned by the `Packages` method
 
+## Available Constants
+```
+FOCAL_LENGTH
+SENSOR_HEIGHT
+SENSOR_WIDTH
+DISPLAY_METRICS_Density
+DISPLAY_METRICS_DensityDPI
+DISPLAY_METRICS_HeightPixels
+DISPLAY_METRICS_WidthPixels
+DISPLAY_METRICS_ScaledDensity
+DISPLAY_METRICS_Xdpi
+DISPLAY_METRICS_Ydpi
+```
 
 ## Usage
 ```javascript
@@ -49,8 +62,10 @@ import RNRearCameraCharacteristicsDisplayMetrics from 'react-native-rear-camera-
 
 // TODO: What to do with the module?
 <Text>
+  ....
   {RNRearCameraCharacteristicsDisplayMetrics.FOCAL_LENGTH}
   {RNRearCameraCharacteristicsDisplayMetrics.DISPLAY_METRICS_Density}
+  .....
 <Text>
 ```
   
