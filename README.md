@@ -48,6 +48,9 @@
 import RNRearCameraCharacteristicsDisplayMetrics from 'react-native-rear-camera-characteristics-display-metrics';
 
 // TODO: What to do with the module?
-RNRearCameraCharacteristicsDisplayMetrics;
+<Text>
+  {RNRearCameraCharacteristicsDisplayMetrics.FOCAL_LENGTH}
+  {RNRearCameraCharacteristicsDisplayMetrics.DISPLAY_METRICS_Density}
+<Text>
 ```
   
