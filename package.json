@@ -8,10 +8,11 @@
   },
   "keywords": [
     "react-native",
-    "android"
+    "android",
+    "library"
   ],
-  "author": "",
-  "license": "",
+  "author": "Bhargava Ram Sakala",
+  "license": "mit",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
