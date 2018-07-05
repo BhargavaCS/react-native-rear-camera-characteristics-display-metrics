@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-rear-camera-characteristics-display-metrics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native Library to retrieve Display Metrics and few Camera Characteristics in Android",
   "main": "index.js",
   "scripts": {
@@ -16,6 +15,5 @@
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }
